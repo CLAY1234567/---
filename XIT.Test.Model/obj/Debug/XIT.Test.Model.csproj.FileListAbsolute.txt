@@ -1,0 +1,5 @@
+D:\Visual Studio Enterprise 2017\items\XIT.Test.Web.TSM\XIT.Test.Model\bin\Debug\XIT.Test.Model.dll
+D:\Visual Studio Enterprise 2017\items\XIT.Test.Web.TSM\XIT.Test.Model\bin\Debug\XIT.Test.Model.pdb
+D:\Visual Studio Enterprise 2017\items\XIT.Test.Web.TSM\XIT.Test.Model\obj\Debug\XIT.Test.Model.csproj.CoreCompileInputs.cache
+D:\Visual Studio Enterprise 2017\items\XIT.Test.Web.TSM\XIT.Test.Model\obj\Debug\XIT.Test.Model.dll
+D:\Visual Studio Enterprise 2017\items\XIT.Test.Web.TSM\XIT.Test.Model\obj\Debug\XIT.Test.Model.pdb
